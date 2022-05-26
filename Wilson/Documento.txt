@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1002521072 Wilson Eduardo Pulido Vargas
+=======
+Mi documento es :1002521072
+>>>>>>> Pruebas
